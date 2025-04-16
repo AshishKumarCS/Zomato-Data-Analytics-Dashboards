@@ -25,10 +25,10 @@ To analyze restaurant data from Zomato and build dashboards to:
 
 ## 4. Dashboard Highlights
 
-**Welcome Screen (Index):** "Click on Dashboard Button."
-**Dashboard 1 (Overview):** Restaurant distribution by city and top cuisines, overall sales and rating info.
-**Dashboard 2 (User Analysis):** Information about the users like active users, users by age, etc.  
-**Dashboard 3 (City Analysis):** Top-rated restaurants, votes received, sales info.
+- **Welcome Screen (Index):** "Click on Dashboard Button."
+- **Dashboard 1 (Overview):** Restaurant distribution by city and top cuisines, overall sales and rating info.
+- **Dashboard 2 (User Analysis):** Information about the users like active users, users by age, etc.  
+- **Dashboard 3 (City Analysis):** Top-rated restaurants, votes received, sales info.
 
 ## 5. Limitations
 - Sample project and sample data, not updated in real-time

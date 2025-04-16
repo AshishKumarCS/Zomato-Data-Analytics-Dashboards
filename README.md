@@ -46,9 +46,7 @@ Screenshots of the dashboards are available in the `/dashboards` folder.
 ## 📂 Folder Structure
 
 - `dashboards/`: PNGs of the dashboards
-- `data/`: Sample Zomato dataset (if shared)
-- `diagrams/`: Project flow diagrams
-- `writeup.md`: Detailed explanation of metrics and decisions
+- `dataset/`: Sample Zomato dataset used in this project
 
 ## 🧠 Insights Generated
 

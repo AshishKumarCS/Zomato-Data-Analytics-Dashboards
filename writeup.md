@@ -12,16 +12,14 @@ To analyze restaurant data from Zomato and build dashboards to:
 - Cuisine Type
 - Aggregate Rating
 - Price Range
-- Online Delivery (Yes/No)
-- Votes
-- Delivery Time (if available)
+- Ratings
+- Users Info
 
 ## 3. Key KPIs Tracked
 - Average Rating by Cuisine
-- Top 10 Rated Restaurants
-- Distribution of Online Orders
-- Number of Restaurants by City
-- Delivery Time vs Rating Comparison
+- Top x(5,10,25,50,100, all) Rated Restaurants
+- Distribution of Orders (Veg, Non-Veg, Others)
+- Sales by City
 
 ## 4. Dashboard Highlights
 

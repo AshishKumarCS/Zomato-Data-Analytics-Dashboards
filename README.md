@@ -65,4 +65,4 @@ Screenshots of the dashboards are available in the `/dashboards` folder.
 
 ## 📬 Contact
 
-For queries, suggestions, or collaborations, reach out to [Your Email] or open an issue in the repo.
+For queries, suggestions, or collaborations, reach out to ashish-kumar-ak@outlook.com or open an issue in the repo.

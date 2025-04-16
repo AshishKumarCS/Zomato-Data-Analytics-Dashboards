@@ -23,7 +23,25 @@ Screenshots of the dashboards are available in the `/dashboards` folder.
 
 ## 🔁 Workflow
 
-![Workflow Diagram](./diagrams/dashboard_workflow.png)
+          +----------------+
+          |   Zomato Data  |
+          +--------+-------+
+                   |
+                   v
+        +----------+----------+
+        | Data Cleaning & Prep|  (Excel, DAX , SQL)
+        +----------+----------+
+                   |
+                   v
+        +----------+----------+
+        |  Dashboard Design   | (Power BI )
+        +----------+----------+
+                   |
+                   v
+        +----------+----------+
+        |      Dashboard      |
+        +----------+----------+
+    
 
 ## 📂 Folder Structure
 
